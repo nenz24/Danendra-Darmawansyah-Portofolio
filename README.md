@@ -25,6 +25,6 @@ Mobile Dev learner!
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/danendra.syh?igsh=d3h1NTB4dXdyYXk4&utm_source=qr">
+<a href="https://www.instagram.com/danendra.syh?igsh=d3h1NTB4dXdyYXk4&utm_source=qr" Instagram>
   <img align="left" alt="Danendra's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
