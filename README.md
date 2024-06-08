@@ -1,6 +1,8 @@
-# <summary><strong>Hi there :wave: , I'm Danendra!</strong></summary>
-Tech Enthusiast, currently study at Udayana University.
+# <summary><strong>Hey yow :wave: , This is my Mobile Apps Portfolio</strong></summary>
+<h1>ENJOY!</h1>
 
+
+Tech Enthusiast, currently study at Udayana University.
 Mobile Dev learner!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
