@@ -1,4 +1,4 @@
-<h3>I'm already make some Apps using kotlin for my ANDROID portfolio, but it can't move here because the file is bigger</h3>
+<h3>WE GO GYM</h3>
 
-<p>you can easily email me for the files, or wait for it</p>
-<h2>IT WILL COMING SOON 👀</h2>
+<p>Application based on Android user, this apps will guides you from a newbie at the gym become a pro Gymrat</p>
+<h2>Enjoy!</h2>
