@@ -1,4 +1,4 @@
-# <summary><strong>Hey yow :wave: , This is my Mobile Apps Portfolio</strong></summary>
+# <summary><strong>Hey yow :wave: , This is My Mobile Apps Portfolio</strong></summary>
 <h1>ENJOY!</h1>
 
 
@@ -9,13 +9,10 @@ Mobile Dev learner!
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Integrated%20Development%20Environment-Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/IOS%20Dev%20App-XCode-blue?logo=Xcode"/>
+  <img src="https://img.shields.io/badge/XCode-blue?logo=Xcode"/>
 </p>
 ### <summary><strong>Yosh!</strong></summary>
 <p>
